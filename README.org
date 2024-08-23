@@ -3,8 +3,7 @@
 QOI Format encoder/decoder for Common Lisp
 
 |---------+-------------------------------------------|
-| source  | git:https://github.com/bpanthi977/qoi.git   |
-| commit  | d992e6d  |
-| systems | qoi |
+| source  | git:https://github.com/bpanthi977/qoi.git |
+| commit  | 0fcbeba                                   |
+| systems | qoi                                       |
 |---------+-------------------------------------------|
-
