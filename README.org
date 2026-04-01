@@ -7,3 +7,4 @@ QOI Format encoder/decoder for Common Lisp
 | commit  | cf03ccb                                   |
 | systems | qoi                                       |
 |---------+-------------------------------------------|
+ 
